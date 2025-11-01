@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    text-shadow: 1px 1px 3px gray;
+}
+
+.intro {
+    font-style: italic;
+}
+
+.education-list {
+    list-style-type: square;
+}
+
+.skills-list {
+    list-style-type: upper-roman;
+}
+
+p, li {
+    text-align: justify;
+}
